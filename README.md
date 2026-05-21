@@ -1,15 +1,15 @@
-## Braison Swilling
+### Braison
 
-Independent developer. I build desktop tools, dev workflow utilities, and game-adjacent software.
+I build desktop apps and dev tooling. Mostly Rust, C#/.NET, and Svelte these days.
 
-**Stack:** Rust, C# / .NET, Svelte / SvelteKit, Tauri, Python.
+#### What I'm working on
 
-### Selected work
+[**rift**](https://github.com/Blazzer10200/rift-tauri) is a FiveM/RedM dev workspace launcher. Tauri 2 + Rust + SvelteKit, with SFTP sync and two-way drift detection.
 
-- **[exfil-v1](https://github.com/Blazzer10200/exfil-v1)** — Tarkov color-shift + hardware sensor dashboard. WPF / .NET 8, NVAPI gamma & vibrance, BattlEye-safe (no game-process injection).
-- **[rift-tauri](https://github.com/Blazzer10200/rift-tauri)** — FiveM / RedM dev workspace launcher. Tauri 2 + SvelteKit + Rust. SFTP-first sync, two-way drift detection, Velopack auto-update.
-- **[Blazzer10200.github.io](https://github.com/Blazzer10200/Blazzer10200.github.io)** — Personal portfolio & résumé. SvelteKit, deployed to GitHub Pages → [blazzer10200.github.io](https://blazzer10200.github.io/).
+[**exfil v1**](https://github.com/Blazzer10200/exfil-v1) is a Tarkov color-shift overlay. WPF on .NET 8, talking to NVAPI for gamma and digital vibrance, with a live sensor readout panel.
 
-### Contact
+[**portfolio**](https://blazzer10200.github.io) — résumé and project showcase. SvelteKit, deployed to GitHub Pages.
 
-Portfolio: <https://blazzer10200.github.io/>
+---
+
+[blazzer10200.github.io](https://blazzer10200.github.io)
